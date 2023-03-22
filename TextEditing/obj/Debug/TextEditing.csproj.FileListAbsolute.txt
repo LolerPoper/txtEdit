@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\TextEditing\bin\Debug\TextEditing.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\TextEditing\bin\Debug\TextEditing.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\TextEditing\bin\Debug\TextEditing.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\TextEditing\obj\Debug\TextEditing.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\TextEditing\obj\Debug\TextEditing.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\TextEditing\obj\Debug\TextEditing.Form1.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\TextEditing\obj\Debug\TextEditing.Properties.Resources.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\TextEditing\obj\Debug\TextEditing.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\TextEditing\obj\Debug\TextEditing.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\TextEditing\obj\Debug\TextEditing.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\TextEditing\obj\Debug\TextEditing.pdb
